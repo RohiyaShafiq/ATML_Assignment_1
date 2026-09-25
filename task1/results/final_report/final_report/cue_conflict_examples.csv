@@ -1,0 +1,10 @@
+model,content_class,style_class,prediction,cue_category,image_path
+resnet50,airplane,bird,airplane,shape,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0010.png
+resnet50,airplane,bird,airplane,shape,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0017.png
+resnet50,airplane,bird,airplane,shape,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0018.png
+resnet50,airplane,bird,bird,texture,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0000.png
+resnet50,airplane,bird,bird,texture,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0001.png
+resnet50,airplane,bird,bird,texture,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0002.png
+resnet50,airplane,bird,deer,other,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0006.png
+resnet50,airplane,bird,cat,other,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0012.png
+resnet50,airplane,bird,deer,other,/content/drive/MyDrive/task1/results/cue_conflicts/shape_airplane_style_bird_0015.png

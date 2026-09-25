@@ -1,0 +1,13 @@
+model,intervention,cosine_stability
+resnet50,grayscale,0.8044189
+resnet50,patch_shuffle,0.03647898
+resnet50,translation_32px,0.93054086
+vit_b16,grayscale,0.74355686
+vit_b16,patch_shuffle,0.024801455
+vit_b16,translation_32px,0.9450732
+clip,grayscale,0.87776846
+clip,patch_shuffle,0.5684259
+clip,translation_32px,0.95932525
+resnet50,cue_conflict,0.33562112
+vit_b16,cue_conflict,0.3233393
+clip,cue_conflict,0.7395428

@@ -1,0 +1,5 @@
+model,Clean,Color,Patch Shuffle
+clip,0.964,0.964,0.962
+clip_zero_shot,0.95,0.95,
+resnet50,0.972,0.972,0.972
+vit_b16,0.988,0.988,0.988

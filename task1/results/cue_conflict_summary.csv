@@ -1,0 +1,5 @@
+model,Ntotal,Nshape,Ntexture,Nother,shape_bias_percent,coverage_percent
+resnet50,200,85,53,62,61.59420289855072,69.0
+vit_b16,200,119,37,44,76.28205128205127,78.0
+clip,200,116,27,57,81.11888111888112,71.5
+clip_zero_shot,200,114,31,55,78.62068965517241,72.5

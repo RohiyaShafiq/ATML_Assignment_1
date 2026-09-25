@@ -1,0 +1,16 @@
+model,accuracy,macro_f1,mean_confidence,intervention
+resnet50,0.972,0.9720942202263444,0.9388510584831238,Clean
+vit_b16,0.988,0.9879987876338652,0.9743281602859496,Clean
+clip,0.964,0.9632586944751425,0.2836470901966095,Clean
+clip_zero_shot,0.95,0.9482180198965722,0.941282331943512,Clean
+resnet50,0.972,,,Color
+vit_b16,0.988,,,Color
+clip,0.964,,,Color
+clip_zero_shot,0.95,,,Color
+resnet50,0.972,,,Color
+vit_b16,0.988,,,Color
+clip,0.964,,,Color
+clip_zero_shot,0.95,,,Color
+resnet50,0.972,,,Patch Shuffle
+vit_b16,0.988,,,Patch Shuffle
+clip,0.962,,,Patch Shuffle

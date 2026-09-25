@@ -1,0 +1,4 @@
+model,clean_accuracy,shuffled_accuracy,accuracy_drop,prediction_consistency
+resnet50,0.972,0.152,0.82,0.154
+vit_b16,0.988,0.116,0.872,0.116
+clip,0.962,0.128,0.834,0.124
