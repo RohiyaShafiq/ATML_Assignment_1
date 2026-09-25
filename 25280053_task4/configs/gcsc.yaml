@@ -1,0 +1,13 @@
+seed: 6304
+
+num_classes: 10
+batch_size: 128
+epochs: 100
+
+learning_rate: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+
+num_workers: 2
+
+checkpoint_path: /content/drive/MyDrive/task4/cache/gcsc_best.pt
